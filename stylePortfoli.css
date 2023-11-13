@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+ /* .outer {
+    width: 100px;
+    height: 100px;
+    /* text-align: center; 
+    vertical-align: middle;
+    /* background-color: #ffc; 
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    align-items: unsafe center;
+  } */
+/* .inner {
+    display: inline-block;
+    width: 800px;
+    height: 800px;
+    background-color: #fcc;
+  }  */
